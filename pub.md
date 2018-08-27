@@ -3,6 +3,7 @@
 
 ### Pre-prints (In review)
 
+* Rodriguez-Delgado A, Arango de Montis A, Fresan A, Miranda E, **Garza-Villarreal EA**, Alcala-Lozano A, Duque-Alarcon X, Balducci T. [Comorbid personality disorders and their impact on the presentation of severe dissociative experiences in patients with borderline personality disorder in Mexican patients.](https://psyarxiv.com/vj8ga) PsyArXiv.
 * **Garza-Villarreal EA***, Alcala R, Balducci T, Angeles-Valdez D, Chakravarty M, Devenyi GA, Gonzalez-Olvera, JJ. [Patterns of reduced cortical thickness and striatum pathological morphology in cocaine addiction.](https://doi.org/10.1101/306068) BiorXiv.
 * Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, **Garza-Villarreal
 EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243) BiorXiv. 
