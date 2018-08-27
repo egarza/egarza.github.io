@@ -6,7 +6,7 @@ I am Medical Doctor and a Neuroscience researcher with a position as *Researcher
 I'm a promoter and user of *Open Science* and *Open Access* initiatives.
 
 ### Research Interests
-My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently, my main focus has been in Substance Addiction. 
+My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently, my main focus has been in Substance Addiction and Connectomics. 
 
 ### Current Positions
 * Researcher in Medical Sciences, [National Institute of Psychiatry](http://www.inprf.gob.mx), Mexico City, Mexico. (physical location)
