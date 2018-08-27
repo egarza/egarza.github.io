@@ -8,6 +8,6 @@ My research focuses on finding neuroimaging biomarkers in neuropsychiatric condi
 
 ### CV
 [Education](educ.md)|[Publications](pub.md)|[Funding](fund.md)
---------------------|----------------------|------------------
+------------|------------|---------
 
 

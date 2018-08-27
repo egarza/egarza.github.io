@@ -4,8 +4,8 @@
 ### Pre-prints (In review)
 
 ### 2018
-1. **Garza-Villarreal EA***, Alcala R, Balducci T, Angeles-Valdez D, Chakravarty M, Devenyi GA, Gonzalez-Olvera, JJ. [Patterns of reduced cortical thickness and striatum pathological morphology in cocaine addiction.](https://doi.org/10.1101/306068) BiorXiv.
-2. Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, **Garza-Villarreal
+* **Garza-Villarreal EA***, Alcala R, Balducci T, Angeles-Valdez D, Chakravarty M, Devenyi GA, Gonzalez-Olvera, JJ. [Patterns of reduced cortical thickness and striatum pathological morphology in cocaine addiction.](https://doi.org/10.1101/306068) BiorXiv.
+* Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, **Garza-Villarreal
 EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243) BiorXiv. 
 
 ### Peer-reviewed scientific papers
