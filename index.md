@@ -20,6 +20,6 @@ My research focuses on finding neuroimaging biomarkers in neuropsychiatric condi
 [Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [CFIN AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk)
 
 ### Contact
-[Email](egarza_at_gmail.com)	or Phone: +52 (55) 4160-5354
+Email: egarza at gmail.com	or Phone: +52 (55) 4160-5354
 
 Work Address: [Brain Imaging Building, 2nd Floor, Calz México-Xochimilco 101, Huipulco, 14370, Mexico City, Mexico, CDMX](https://goo.gl/maps/2Qy6nTGp6kw) 
