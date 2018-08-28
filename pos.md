@@ -1,4 +1,5 @@
 ## Education
+
 Institution|Degree|Period|Field
 ---------------------------------|-------|----------------|------------
 CFIN, University of Aarhus, Denmark|Ph.D.|2007-2010|Neuroscience
