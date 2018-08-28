@@ -6,14 +6,17 @@ I am Medical Doctor and a Neuroscience researcher with a position as *Researcher
 I'm a promoter and user of *Open Science* and *Open Access* initiatives.
 
 ### Research Interests
-My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently, my main focus has been in Substance Addiction and Connectomics. 
+My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently my main line of research has been in *Substance Addiction* and *Connectomics*, collaborating closely with PI Mallar Chakravarty at the [CoBrA Lab](http://cobralab.ca).
+
+
+In parallel, I'm interested in the effects of music in chronic pain conditions, so-called *Music-Induced Analgesia*. For this I collaborate with PI Peter Vuust at the [Center for Music in the Brain](http://musicinthebrain.au.dk/).
 
 ### Current Positions
 * Researcher in Medical Sciences, [National Institute of Psychiatry](http://www.inprf.gob.mx), Mexico City, Mexico. (physical location)
-* Visiting Senior Researcher, CFIN, University of Aarhus, Denmark.
+* Visiting Senior Researcher, University of Aarhus, Denmark.
 
 ### Scientific Publications
-[Pre-prints and Peer Reviewed](pub.md)
+[Pre-prints and Peer-Reviewed](pub.md)
 
 [Book Chapter](book.md)
 
