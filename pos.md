@@ -1,9 +1,10 @@
 ## Education
 
-Institution|Degree|Period|Field
----------------------------------|-------|----------------|------------
-CFIN, University of Aarhus, Denmark|Ph.D.|2007-2010|Neuroscience
-Universidad Autonoma de Nuevo Leon, Mexico|M.D.|2000-2007|Medicine
+Position|Institution|Period
+-----------------------|-----------------------------------|------------
+Ph.D. Neuroscience|CFIN, University of Aarhus|2007/2010
+M.D.|Universidad Autonoma de Nuevo Leon|2000/2007
+
 
 ## Past Positions
 
