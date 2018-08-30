@@ -1,15 +1,15 @@
 [<- Back](index.md)
 
-## Technical Expertise
+## Technical Expertise and Experience
 
 ### Data Acquisition
 
-* 3 Telsa Human MRI from major vendors.
-* 7 Telsa Animal MRI from Bruker.
+* 3 Telsa Human MRI from major vendors (i.e. Siemens)
+* 7 Telsa Animal MRI from Bruker (Rat)
 * High density Electroencephalography (Brain Products)
-* Simultaneous EEG/fMRI
-* Physiological
-* Clinical & Psychological
+* Simultaneous EEG/fMRI experience
+* Physiological measurements
+* Clinical & Psychological interview, questionnaires and tasks
 
 ### Brain Imaging Processing and Analysis
 
@@ -19,9 +19,38 @@
 * Connectomics
 * [BIDS framework](http://bids.neuroimaging.io/)
 
+### Neuroimaging Software
+
+* Structural MRI
+	* CIVET
+	* Freesurfer
+	* MAGET Brain and Morpho
+	* MINC Tools
+* Diffusion MRI
+	* MRtrix
+	* FSL
+* fMRI
+	* FSL
+	* AFNI
+	* SPM
+	* CPAC Pipeline
+	* FMRIPrep
+	* MRIQC
+* Connectivity
+	* CONN Toolbox (MIT)
+	* Brain Connectivity Toolbox
+* Others
+	* Ginger ALE (Meta-analysis)
+	* Mango (Visualization)
+	* Presentation (paradigms)
+	* E-prime (paradigms)
+	* PsychoPy (paradigms)
+
 ### Programming
 
 * R Statistics
 * Bash shell
 * Python
+* Matlab
+* High-Performance Computing
 
