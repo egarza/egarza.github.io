@@ -8,6 +8,7 @@
 * 7 Telsa Animal MRI from Bruker (Rat)
 * High density Electroencephalography (Brain Products)
 * Simultaneous EEG/fMRI experience
+* EEG and MEG acquisition, preprocessing and analysis
 * Physiological measurements
 * Clinical & Psychological interview, questionnaires and tasks
 
@@ -45,6 +46,7 @@
 	* Presentation (paradigms)
 	* E-prime (paradigms)
 	* PsychoPy (paradigms)
+	* EEGLab, SPM, Fieldtrip (M/EEG)
 
 ### Programming
 
