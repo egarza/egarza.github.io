@@ -1,3 +1,5 @@
+[<- Back](index.md)
+
 ## Projects as Principal Investigator
 
 * Brain structural and functional connectivity changes related to clinical improvement in patients with cocaine addiction after long-term treatment with TMS. Pre-registered in [Clinical Trials ID: NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). 	* Morphological brain correlates of substance use: a meta-analysis and systematic review. Pre-registered in [PROSPERO] (https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=71222). Collaboration with Sarael Alcauter at INB-UNAM, Mexico.

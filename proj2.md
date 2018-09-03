@@ -1,3 +1,5 @@
+[<- Back](index.md)
+
 ## Projects as Co-Investigator
 
 * Effect of fetal programming with caloric diet on brain and synaptic structure and behavior similar to depression in rats. **PI: Alberto Camacho**, UANL.* Functional connectivity with MRI: An alternative to improve treatment of the addictive brain. (FOSSIS CONACYT No. 201493). **PI: Jorge J. Gonzalez-Olvera**, INPRFM.* Multimodal Study on the Influence of the Latrophilin-3 (LPHN3) Gene on Brain Structure and Function in Adults with Attention-Deficit/Hyperactivity Disorder. **PI: Xavier Castellanos**, NYU.* Brain structural and functional connectivity after motor rehabilitation in Stroke. (FOSSIS CONACYT No. 233757). **PI: Fernando Gongora-Rivera**, UANL.* Multisensory modulation of auditory perception. **PI: Peter Vuust**, U. of Aarhus.
