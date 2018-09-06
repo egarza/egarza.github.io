@@ -29,9 +29,9 @@ In parallel, I'm interested in the effects of music in chronic pain conditions, 
 [As Co-Investigator](proj2.md)
 
 ### Open Science Innitiatives
-* Project Pre-Registration: *see Projects section*
-* Data Releases: *see the Projects section
-* Preprints: see the Scientific Publications section
+* Project Pre-Registration: *see [Projects](proj1.md)*
+* Data Releases: *see [Publications](pub.md)*
+* Preprints: *see [Publications](pub.md)*
 * Need data from my papers? Email me 
 
 ### Online Presence
