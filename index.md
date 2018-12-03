@@ -1,15 +1,12 @@
-![Eduardo Garza](ed_2016_3.jpg)
+![Eduardo Garza](ed_2018.jpg)
 
 ### Short Bio
-I am Medical Doctor and a Neuroscience researcher with a position as *Researcher in Medical Sciences* at the National Institute of Psychiatry in Mexico City, Mexico. I also have a position as a *Visiting Senior Researcher* at the University of Aarhus in Denmark. 
-
-I'm a promoter and user of *Open Science* and *Open Access* initiatives.
+I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives.
 
 ### Research Interests
-My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently my main line of research has been in *Substance Addiction* and *Connectomics*, collaborating closely with PI Mallar Chakravarty at the [CoBrA Lab](http://cobralab.ca).
+My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently my main line of research has been in *Substance Addiction* and *Connectomics*.
 
-
-In parallel, I'm interested in the effects of music in chronic pain conditions, so-called *Music-Induced Analgesia*. For this I collaborate with PI Peter Vuust at the [Center for Music in the Brain](http://musicinthebrain.au.dk/).
+In parallel, I'm interested in the effects of music in chronic pain conditions, so-called *Music-Induced Analgesia*. 
 
 ### Current Positions
 * Researcher in Medical Sciences, [National Institute of Psychiatry](http://www.inprf.gob.mx), Mexico City, Mexico. (physical location)
