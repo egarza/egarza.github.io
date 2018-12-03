@@ -17,7 +17,7 @@ EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](htt
 * Lunde S, Vuust P, Garza-Villarreal EA, Vase L. [Music-induced analgesia: How does it relieve pain?](https://doi.org/10.1097/j.pain.0000000000001452) Accepted in PAIN. 
 * Balducci T, González-Olvera JJ, Angeles-Valdez D, Espinoza-Luna I, **Garza-Villarreal EA***. [Borderline personality disorder with cocaine dependence: impulsivity, emotional dysregulation and amygdala functional connectivity.](https://doi.org/10.3389/fpsyt.2018.00328) Front Psychiatry. 2018 Jul 31;9:566.
 * Haumann NT, Vuust P, Bertelsen F, **Garza-Villarreal EA***. [Influence of Musical Enculturation on Brain Responses to Metric Deviants.](https://doi.org/10.3389/fnins.2018.00218) Front Neurosci. 2018;12:218.
-* Alcalá-Lozano R, **Garza-Villarreal EA.***. [Overlap of large-scale brain networks may explain the similar cognitive improvement of single-site vs multi-site rTMS in Alzheimer's disease.](https://doi.org/10.1016/j.brs.2018.03.016) Brain Stimul In Press. 
+* Alcalá-Lozano R, **Garza-Villarreal EA.***. [Overlap of large-scale brain networks may explain the similar cognitive improvement of single-site vs multi-site rTMS in Alzheimer's disease.](https://doi.org/10.1016/j.brs.2018.03.016) Brain Stimul. 2018 Jul-Aug;11:942-944. 
 
 ### 2017
 * Alcalá-Lozano R, Morelos-Santana E, Cortés-Sotres JF, **Garza-Villarreal EA**, Sosa-Ortiz AL, Gonzalez-Olvera JJ. [Similar clinical improvement and maintenance after rTMS at 5 Hz using a simple vs. complex protocol in Alzheimer's disease.](https://doi.org/10.1016/j.brs.2017.12.011) Brain Stimul. 2017;11:625-627.
