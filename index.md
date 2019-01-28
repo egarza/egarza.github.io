@@ -4,7 +4,7 @@
 I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives.
 
 ### Research Interests
-My research focuses on finding neuroimaging biomarkers in neuropsychiatric conditions that could be used for diagnosis or treatment evaluation. Currently my main line of research has been in *Substance Addiction* and *Connectomics*.
+My research focuses on finding neuroimaging biomarkers of disease and treatment in substance addiction.
 
 In parallel, I'm interested in the effects of music in chronic pain conditions, so-called *Music-Induced Analgesia*. 
 

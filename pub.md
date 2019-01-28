@@ -5,11 +5,12 @@
 
 ### Pre-prints (In review)
 
+* Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.biorxiv.org/content/10.1101/461087v1) bioRxiv.
 * Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, **Eduardo Garza-Villarreal***. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) PsyArXiv. **Data Release** at [OSF](https://osf.io/m7h3x/).
 * Rodriguez-Delgado A, Arango de Montis A, Fresan A, Miranda E, **Garza-Villarreal EA**, Alcala-Lozano A, Duque-Alarcon X, Balducci T. [Comorbid personality disorders and their impact on the presentation of severe dissociative experiences in patients with borderline personality disorder in Mexican patients.](https://psyarxiv.com/vj8ga) PsyArXiv.
 * **Garza-Villarreal EA***, Alcala R, Balducci T, Angeles-Valdez D, Chakravarty M, Devenyi GA, Gonzalez-Olvera, JJ. [Patterns of reduced cortical thickness and striatum pathological morphology in cocaine addiction.](https://doi.org/10.1101/306068) BiorXiv. **Data Release** at [Zenodo](https://zenodo.org/record/1409808#.W5E3oCOZPIF).
 * Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, **Garza-Villarreal
-EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243) BiorXiv. 
+EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243) biorXiv. 
 
 ### Peer-reviewed scientific papers
 
