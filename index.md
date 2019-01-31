@@ -32,7 +32,7 @@ In parallel, I'm interested in the effects of music in chronic pain conditions, 
 * Need data from my papers? Email me 
 
 ### Online Presence
-[Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [CFIN AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk)
+[Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [CFIN AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk) - [Garza Lab](https://garzalab.github.io)
 
 ### Contact
 Email: **egarza at gmail.com**	or Phone: +52 (55) 4160-5354
