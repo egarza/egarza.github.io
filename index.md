@@ -1,7 +1,7 @@
 ![Eduardo Garza](ed_2018.jpg)
 
 ### Short Bio
-I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives.
+I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives. Lab Leader of the [Neuroimaging & Psychiatry Laboratory (Garza Lab)](https://garzalab.github.io).
 
 ### Research Interests
 My research focuses on finding neuroimaging biomarkers of disease and treatment in substance addiction.
