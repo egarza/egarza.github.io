@@ -12,6 +12,7 @@ M.D.|Universidad Autonoma de Nuevo Leon|2000/2007
 
 Position|Institution|Period
 -----------------------------|-----------------------------------|------------
+Researcher in Medical Sciences|National Institute of Psychiatry|2017 - 2019
 CONACYT Research Fellow|National Institute of Psychiatry|2014 - 2017
 Assistant Professor in Neurology|Universidad Autonoma de Nuevo Leon|2012 - 2014
 Postdoctoral Fellow|CFIN, University of Aarhus|2010 - 2012

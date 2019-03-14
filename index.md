@@ -4,12 +4,12 @@
 I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives. Lab Leader of the [Neuroimaging & Psychiatry Laboratory (Garza Lab)](https://garzalab.github.io).
 
 ### Research Interests
-My research focuses on finding neuroimaging biomarkers of disease and treatment in substance addiction.
+My research focuses on finding neuroimaging biomarkers of disease and treatment in substance addiction and neuropsychopathology.
 
 In parallel, I'm interested in the effects of music in chronic pain conditions, so-called *Music-Induced Analgesia*. 
 
 ### Current Positions
-* Researcher in Medical Sciences, [National Institute of Psychiatry](http://www.inprf.gob.mx), Mexico City, Mexico. (physical location)
+* Assistant Professor, [Institute of Neurobiology (INB)](https://inb.unam.mx), [UNAM](https://www.unam.mx) campus Juriquilla, Querétaro, Mexico. (physical location)
 * Visiting Senior Researcher, University of Aarhus, Denmark.
 
 ### Scientific Publications
@@ -37,4 +37,4 @@ In parallel, I'm interested in the effects of music in chronic pain conditions, 
 ### Contact
 Email: **egarza at gmail.com**	or Phone: +52 (55) 4160-5354
 
-Work Address: [Brain Imaging Building, 2nd Floor, National Institute of Psychiatry, Calz México-Xochimilco 101, Huipulco, 14370, Mexico City, Mexico, CDMX](https://goo.gl/maps/2Qy6nTGp6kw) 
+Work Address: [Building B, Office 03, Institute of Neurobiology, UNAM campus Juriquilla, Boulevard Juriquilla 3001, CP 76230, Santiago de Querétaro, Querétaro, México](https://goo.gl/maps/Lim7hmn9zFA2) 
