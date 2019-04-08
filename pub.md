@@ -15,7 +15,7 @@ EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](htt
 ### Peer-reviewed scientific papers
 
 ### 2019
-* Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.biorxiv.org/content/10.1101/461087v1) Accepted in Frontiers in Psychiatry.
+* Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
 
 ### 2018
 * Lunde S, Vuust P, Garza-Villarreal EA, Vase L. [Music-induced analgesia: How does it relieve pain?](https://doi.org/10.1097/j.pain.0000000000001452) Accepted in PAIN. 
