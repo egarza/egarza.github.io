@@ -35,6 +35,6 @@ In parallel, I'm interested in the effects of music in chronic pain conditions, 
 [Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [CFIN AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk) - [Garza Lab](https://garzalab.github.io)
 
 ### Contact
-Email: **egarza at gmail.com**	or Phone: +52 (55) 4160-5354
+Email: **egarza at comunidad.unam.mx**	or Phone: +52 (442) 238-1038
 
 Work Address: [Building B, Office 03, Institute of Neurobiology, UNAM campus Juriquilla, Boulevard Juriquilla 3001, CP 76230, Santiago de Querétaro, Querétaro, México](https://goo.gl/maps/Lim7hmn9zFA2) 
