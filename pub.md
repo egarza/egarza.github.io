@@ -16,12 +16,13 @@ EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](htt
 ### 2019
 
 * Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, **Eduardo Garza-Villarreal***. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) PsyArXiv. **Data Release** at [OSF](https://osf.io/m7h3x/). Accepted.
-* Lunde, S. J., Vuust, P., **Garza-Villarreal, E. A.**, & Vase, L. (2019). Reply to Martin-Saavedra and Saade-Lemus. PAIN, 160(6), 1483. [DOI](https://doi.org/10.1097/j.pain.0000000000001534).
+* Lunde, S. J., Vuust, P., **Garza-Villarreal, E. A.**, & Vase, L. (2019). [Reply to Martin-Saavedra and Saade-Lemus](https://doi.org/10.1097/j.pain.0000000000001534). PAIN, 160(6), 1483. 
 * Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
 
 
 ### 2018
-* Lunde S, Vuust P, Garza-Villarreal EA, Vase L. [Music-induced analgesia: How does it relieve pain?](https://doi.org/10.1097/j.pain.0000000000001452) Accepted in PAIN. 
+
+* Lunde S, Vuust P, Garza-Villarreal EA, Vase L. [Music-induced analgesia: How does it relieve pain?](https://doi.org/10.1097/j.pain.0000000000001452) PAIN, 160(5), 989. 
 * Balducci T, González-Olvera JJ, Angeles-Valdez D, Espinoza-Luna I, **Garza-Villarreal EA***. [Borderline personality disorder with cocaine dependence: impulsivity, emotional dysregulation and amygdala functional connectivity.](https://doi.org/10.3389/fpsyt.2018.00328) Front Psychiatry. 2018 Jul 31;9:566.
 * Haumann NT, Vuust P, Bertelsen F, **Garza-Villarreal EA***. [Influence of Musical Enculturation on Brain Responses to Metric Deviants.](https://doi.org/10.3389/fnins.2018.00218) Front Neurosci. 2018;12:218.
 * Alcalá-Lozano R, **Garza-Villarreal EA.***. [Overlap of large-scale brain networks may explain the similar cognitive improvement of single-site vs multi-site rTMS in Alzheimer's disease.](https://doi.org/10.1016/j.brs.2018.03.016) Brain Stimul. 2018 Jul-Aug;11:942-944. 
