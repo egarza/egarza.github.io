@@ -6,7 +6,6 @@
 ### Pre-prints (In review)
 
 
-* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, **Eduardo Garza-Villarreal***. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) PsyArXiv. **Data Release** at [OSF](https://osf.io/m7h3x/).
 * Rodriguez-Delgado A, Arango de Montis A, Fresan A, Miranda E, **Garza-Villarreal EA**, Alcala-Lozano A, Duque-Alarcon X, Balducci T. [Comorbid personality disorders and their impact on the presentation of severe dissociative experiences in patients with borderline personality disorder in Mexican patients.](https://psyarxiv.com/vj8ga) PsyArXiv.
 * **Garza-Villarreal EA***, Alcala R, Balducci T, Angeles-Valdez D, Chakravarty M, Devenyi GA, Gonzalez-Olvera, JJ. [Patterns of reduced cortical thickness and striatum pathological morphology in cocaine addiction.](https://doi.org/10.1101/306068) BiorXiv. **Data Release** at [Zenodo](https://zenodo.org/record/1409808#.W5E3oCOZPIF).
 * Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, **Garza-Villarreal
@@ -15,7 +14,11 @@ EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](htt
 ### Peer-reviewed scientific papers
 
 ### 2019
+
+* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, **Eduardo Garza-Villarreal***. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) PsyArXiv. **Data Release** at [OSF](https://osf.io/m7h3x/). Accepted.
+* Lunde, S. J., Vuust, P., **Garza-Villarreal, E. A.**, & Vase, L. (2019). Reply to Martin-Saavedra and Saade-Lemus. PAIN, 160(6), 1483. [DOI](https://doi.org/10.1097/j.pain.0000000000001534).
 * Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
+
 
 ### 2018
 * Lunde S, Vuust P, Garza-Villarreal EA, Vase L. [Music-induced analgesia: How does it relieve pain?](https://doi.org/10.1097/j.pain.0000000000001452) Accepted in PAIN. 
