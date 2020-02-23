@@ -1,6 +1,6 @@
 ![Eduardo Garza](ed_2018.jpg)
 
-### [Education & Past Positions](pos.md) - [Publications](pub.md) - [Current Projects](proj1.md)
+### [Education & Past Positions](pos.md) - [Publications](pub.md) - [Projects](proj1.md)
 
 ### Short Bio
 I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives. 
