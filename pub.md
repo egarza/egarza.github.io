@@ -5,19 +5,22 @@
 
 ### Pre-prints (In review)
 
+* Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. S ́anchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code: [https://osf.io/39ygk/](https://osf.io/39ygk/).
 
-* **Garza-Villarreal EA***, Alcala R, Balducci T, Angeles-Valdez D, Chakravarty M, Devenyi GA, Gonzalez-Olvera, JJ. [Patterns of reduced cortical thickness and striatum pathological morphology in cocaine addiction.](https://doi.org/10.1101/306068) BiorXiv. **Data Release** at [Zenodo](https://zenodo.org/record/1409808#.W5E3oCOZPIF).
-* Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, **Garza-Villarreal
-EA***. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243) biorXiv. 
 
 ### Peer-reviewed scientific papers
 
-### 2019
+### 2020
 
-* Rodriguez-Delgado A, Arango de Montis A, Fresan A, Miranda E, **Garza-Villarreal EA**, Alcala-Lozano A, Duque-Alarcon X, Balducci T. [Comorbid personality disorders and their impact on severe dissociative experiences in Mexican patients with borderline personality disorder](https://psyarxiv.com/vj8ga). Accepted in Nordic Journal Of Psychiatry. (2019)
-* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, **Eduardo Garza-Villarreal***. (2019) [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) (open access in PsyArXiv). **Data Release** at [OSF](https://osf.io/m7h3x/). Progress in Neuro-psychopharmacology and biological psychiatry, 95, 109709. [DOI:10.1016/j.pnpbp.2019.109709](https://doi.org/10.1016/j.pnpbp.2019.109709).
-* Lunde, S. J., Vuust, P., **Garza-Villarreal, E. A.**, & Vase, L. (2019). [Reply to Martin-Saavedra and Saade-Lemus](https://doi.org/10.1097/j.pain.0000000000001534). PAIN, 160(6), 1483. 
-* Duque X, Alcala-Lozano R, González-Olvera JJ, **Garza Villarreal EA***, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
+* Milham M, The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium, et al. "Accelerating the evolution of nonhuman primate neuroimaging". Accepted in NEURON 2020.
+ 
+### 2019
+* Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, Garza-Villarreal
+EA. [Functional connectivity of music-induced analgesia in fibromyalgia.](https://doi.org/10.1101/230243). Accepted in Scientific Reports 2019. 
+* Rodriguez-Delgado A, Arango de Montis A, Fresan A, Miranda E, Garza-Villarreal EA, Alcala-Lozano A, Duque-Alarcon X, Balducci T. [Comorbid personality disorders and their impact on severe dissociative experiences in Mexican patients with borderline personality disorder](https://doi.org/10.1080/08039488.2019.1658127). Nordic Journal Of Psychiatry. (2019)
+* Said Jiménez, Diego Angeles-Valdez, Viviana Villicaña, Ernesto Reyes-Zamorano, Ruth Alcala-Lozano, Jorge Gonzalez-Olvera, Eduardo Garza-Villarreal*. [Machine learning consistently predicts cocaine dependence based on cognitive markers.](https://psyarxiv.com/7qsz3/) (open access in PsyArXiv). **Data Release** at [OSF](https://osf.io/m7h3x/). Progress in Neuro-psychopharmacology and biological psychiatry, 2019. [DOI:10.1016/j.pnpbp.2019.109709](https://doi.org/10.1016/j.pnpbp.2019.109709).
+* Lunde, S. J., Vuust, P., Garza-Villarreal, E. A., & Vase, L. (2019). [Reply to Martin-Saavedra and Saade-Lemus](https://doi.org/10.1097/j.pain.0000000000001534). PAIN, 160(6), 1483. 
+* Duque X, Alcala-Lozano R, González-Olvera JJ, Garza Villarreal EA*, Pellicer F. [Effects of childhood maltreatment on social cognition and brain functional connectivity in borderline personality disorder patients.](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00156/full). Front Psychiatry. 2019 Mar 29;10:156.
 
 
 ### 2018
