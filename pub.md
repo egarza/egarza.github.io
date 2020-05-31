@@ -5,6 +5,8 @@
 
 ### Pre-prints (In review)
 
+* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal*. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). 2020. Pre-registration in Prospero # CRD42017071222.
+
 * Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. S ́anchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code: [https://osf.io/39ygk/](https://osf.io/39ygk/).
 
 
