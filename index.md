@@ -3,9 +3,9 @@
 ### [Education & Past Positions](pos.md) - [Publications](pub.md) - [Projects](proj1.md)
 
 ### Short Bio
-I am Medical Doctor and a Neuroscience researcher working in the field of Neuroimaging and Psychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives. 
+I am Medical Doctor and a Neuroscience researcher working in the field of Neurobiology and Neuropsychiatry. I'm a promoter and user of *Open Science* and *Open Access* initiatives. 
 
-* Lab Leader of the [Neuroimaging & Psychiatry Laboratory (Garza Lab)](https://garzalab.github.io).
+* Lab Leader of the [Computational and Translational Neuropsychiatry Lab (GarzaLab)](https://garzalab.github.io)
 
 ### Research Interests
 
@@ -21,7 +21,7 @@ I am Medical Doctor and a Neuroscience researcher working in the field of Neuroi
 
 
 ### Online Presence
-[Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [CFIN AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk) - [Garza Lab](https://garzalab.github.io)
+[Github](https://github.com/egarza) - [Twitter](https://twitter.com/egarzav) - [ResearchGate](https://www.researchgate.net/profile/Eduardo_Garza_Villarreal) - [Google Scholar](https://scholar.google.dk/citations?user=bX502bUAAAAJ&hl=en) - [OSF](https://osf.io/uc6aj/) - [ORCID](https://orcid.org/0000-0003-1381-8648) - [CFIN AU](http://pure.au.dk/portal/en/eduardoa@cfin.au.dk) - [GarzaLab](https://garzalab.github.io)
 
 ### Contact
 Email: **egarza at comunidad.unam.mx**	or Phone: +52 (442) 238-1038
