@@ -5,7 +5,7 @@
 
 ### Pre-prints (In review)
 
-* Renee Hartig, Daniel Glen, Benjamin Jung, Nikos Logothetis, George Paxinos, Eduardo A Garza-Villarreal, Adam Messinger, Henry Ervard. Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging. 2020
+* Renee Hartig, Daniel Glen, Benjamin Jung, Nikos Logothetis, George Paxinos, Eduardo A Garza-Villarreal, Adam Messinger, Henry Ervard. [Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging.](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1) 2020
 
 *  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.biorxiv.org/content/10.1101/2020.07.31.230185v1) 2020. 
 
