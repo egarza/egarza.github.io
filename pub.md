@@ -5,22 +5,30 @@
 
 ### Pre-prints (In review)
 
-* Renee Hartig, Daniel Glen, Benjamin Jung, Nikos Logothetis, George Paxinos, Eduardo A Garza-Villarreal, Adam Messinger, Henry Ervard. [Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging.](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1) 2020
+* Lazcano, Iván, Abraham Cisneros-Mejorado, Luis Concha, Juan José Ortíz Retana, Eduardo A. Garza-Villarreal, and Aurea Orozco. 2020. [MRI- and Histologically Derived Neuroanatomical Atlas of the Ambystoma Mexicanum (axolotl).](https://doi.org/10.1101/2020.12.09.418566) bioRxiv 2020
 
-*  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.biorxiv.org/content/10.1101/2020.07.31.230185v1) 2020. 
+* Jalil Rasgado Toledo, Apurva Shah, Madhura Ingalhalikar,  Eduardo A. Garza-Villarreal. [Neurite orientation dispersion and density imaging in cocaine use disorder](https://www.medrxiv.org/content/10.1101/2020.10.28.20221911v1). MedrXiv 2020.
 
-* Eduardo A. Garza-Villarreal*, Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan Davalos, Vivianaa Villicana, Sarael Alcauter,  Francisco Xavier Castellanos, Jorge J Gonzalez-Olvera. [Clinical and functional connectivity outcomes of 5-Hz repeated transcranial magnetic stimulation as an add-on treatment in cocaine use disorder: a double-blind randomized controlled trial.](https://www.medrxiv.org/content/10.1101/2020.07.15.20154708v1) 2020. Pre-registration on Clinicaltrias.gov [NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). Data in [OpenNeuro](https://openneuro.org/datasets/ds003037), maps in [Neurovault](https://neurovault.org/collections/8519/).
+* Renee Hartig, Daniel Glen, Benjamin Jung, Nikos Logothetis, George Paxinos, Eduardo A Garza-Villarreal, Adam Messinger, Henry Ervard. [Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging.](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1) bioRxiv 2020.
 
-* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal*. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). 2020. Pre-registration in Prospero # CRD42017071222.
+* Eduardo A. Garza-Villarreal*, Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan Davalos, Vivianaa Villicana, Sarael Alcauter,  Francisco Xavier Castellanos, Jorge J Gonzalez-Olvera. [Clinical and functional connectivity outcomes of 5-Hz repeated transcranial magnetic stimulation as an add-on treatment in cocaine use disorder: a double-blind randomized controlled trial.](https://www.medrxiv.org/content/10.1101/2020.07.15.20154708v1) MedRxiv 2020. Pre-registration on Clinicaltrias.gov [NCT02986438](https://clinicaltrials.gov/ct2/show/NCT02986438). Data in [OpenNeuro](https://openneuro.org/datasets/ds003037), maps in [Neurovault](https://neurovault.org/collections/8519/).
 
-* Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. Sanchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code: [https://osf.io/39ygk/](https://osf.io/39ygk/).
+* Said Jimenez, Kamila E. Sip, Roberto E. Mercadillo, Diego Angeles-Valdez, Jairo Muñoz-Delgado, Juan J. Sanchez-Sosa and Eduardo A. Garza-Villarreal*. [Social closeness and latent commitment impact decisions to keep promises](https://psyarxiv.com/ujrdk/). psyArXiv 2020. Pre-registration: [https://osf.io/u97fd](https://osf.io/u97fd), Data and code: [https://osf.io/39ygk/](https://osf.io/39ygk/).
 
 
 ### Peer-reviewed scientific papers
 
 ### 2020
 
-* Milham M, The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium, et al. "Accelerating the evolution of nonhuman primate neuroimaging". Accepted in NEURON 2020.
+* Luis A. Trujillo-Villarreal, Viktor J. Romero-Díaz, Iván Alberto Marino-Martínez, Lizeth Fuentes-Mera, Marco Antonio Ponce-Camacho, Gabriel A. Devenyi, M. Mallar, Alberto Camacho-Morales *, Eduardo E. Garza-Villarreal *. Maternal cafeteria diet exposure primes depression-like behavior in the offspring evoking lower brain volume related to changes in synaptic terminals and gliosis. Accepted in *Translational Psychiatry* (2020)
+
+
+* Victor Pando-Naude, Sebastian Toxto, Sofia Fernandez-Lozano, Christine E. Parsons, Alcauter, and Eduardo A. Garza-Villarreal*. [Gray and white matter morphology in substance use disorders: A neuroimaging systematic review and meta-analysis](https://www.biorxiv.org/content/10.1101/2020.05.29.122812v1). Pre-registration in Prospero # CRD42017071222. Accepted in *Translational Psychiatry* (2020).
+
+*  Adam Messinger,  Nikoloz Sirmpilatze,  Katja Heuer,  Kep Kee Loh,  Rogier Mars,  Julien Sein,  Ting Xu,  Daniel Glen,  Benjamin Jung,  Jakob Seidlitz,  Paul Taylor,  Roberto Toro,  Eduardo Garza-Villarreal,  Caleb Sponheim,  Xindi Wang,  Austin Benn,  Bastien Cagna,  Rakshit Dadarwal,  Henry Evrard,  Pamela Garcia-Saldivar, Steven Giavasis,  Renee Hartig, Claude Lepage,  Cirong Liu,  Piotr Majka,  Hugo Merchant,  Michael Milham,  Marcello Rosa,  Jordy Tasserie,  Lynn Uhrig,  Daniel Margulies,  Peter Christiaan Klink. [A collaborative resource platform for non-human primate neuroimaging](https://www.sciencedirect.com/science/article/pii/S1053811920310041) Neuroimage. (2020). 
+
+
+* Milham M, The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium, et al. [Accelerating the evolution of nonhuman primate neuroimaging](https://www.sciencedirect.com/science/article/pii/S089662731931089X). Neuron. (2020), Feb 105;4, 600-603.
  
 ### 2019
 * Pando-Naude VM, Barrios FA, Alcauter S, Pasaye E, Vase L, Brattico E, Vuust P, Garza-Villarreal
